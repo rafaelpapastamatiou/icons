@@ -1,6 +1,5 @@
- <svg width="800" height="800">
+ <svg width="800" height="800" fill="none" xmlns="http://www.w3.org/2000/svg">
          <g>
-            <circle cx="100" cy="100" r="50"
-            stroke-width="3" fill="rgb(255,255,255)"></circle>
+            <circle cx="100" cy="100" r="50"stroke-width="3" fill="rgb(255,255,255)"></circle>
          </g> 
 </svg>
